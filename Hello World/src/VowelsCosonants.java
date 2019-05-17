@@ -1,8 +1,8 @@
 
-public class ViwelsCosonants {
+public class VowelsCosonants {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		String line = "This website";
         int vowels = 0, consonants = 0;
 
@@ -17,9 +17,9 @@ public class ViwelsCosonants {
             else if((ch >= 'a'&& ch <= 'z')) {
                 ++consonants;
             }
-            System.out.println("Vowels: " + vowels);
-            System.out.println("Consonants: " + consonants);
+            
         }
-
+        System.out.println("Vowels: " + vowels);
+        System.out.println("Consonants: " + consonants);
 }
 }

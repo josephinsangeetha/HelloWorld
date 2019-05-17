@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Vowelorconsonant {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner vowel = new Scanner(System.in);
 		System.out.println("Enter the vaue");
 

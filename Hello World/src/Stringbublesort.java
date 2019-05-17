@@ -2,7 +2,7 @@
 public class Stringbublesort {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		String str[] = { "s", "k", "r", "v", "n"};
 	      String temp;
 	      System.out.println("Sorted string...");
